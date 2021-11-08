@@ -4,7 +4,7 @@
  Analyzing a data set of various fund raising campaigns and their outcomes. All campaigns have been grouped into 9 major categories.
 
 ### Purpose
-    The main purpose of the analysis is to look at the outcomes of the campaigns to determine if there are any correlations or trends based on lauch date and goals. 
+The main purpose of the analysis is to look at the outcomes of the campaigns to determine if there are any correlations or trends based on lauch date and goals. 
 
 ## Analysis and Challenges
     The kickstarter data was provided in a structured format, so there weren't any major clean-ups required. First step was to insert a filter on the column so it's easily to filter the data set by values in the columns. 
@@ -17,7 +17,7 @@
 ### Analysis of Outcomes Based on Launch Date
     - Overall, there were more successful campaigns each month over the years compared to failed or  cancelled campaigns. Note this is for the thearter catgory. 
 
-    - Campaigns run in the summer (April - August) have been more successful. You can visual this in the "outcomes by lauch date" graph. The distance (spread) between the successful line and failed line is larger between April to August. 
+    - Campaigns run in the summer (April - August) have been more successful. You can visual this in the "outcomes by lauch date" graph. The distance (spread)    between the successful line and failed line is larger between April to August. 
     
 ### Analysis of Outcomes Based on Goals
 
