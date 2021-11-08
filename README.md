@@ -15,10 +15,10 @@ In our case we had a 10 digit serial number, which i beilieve is a **Unix date f
 
 
 ### Analysis of Outcomes Based on Launch Date
-  ![Outcome based on Launch Date](https://github.com/Akin-Olusuyi/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
+  ![Outcome based on Launch Date](https://github.com/Akin-Olusuyi/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
      
 ### Analysis of Outcomes Based on Goals
-
+  ![Outcomes based on Goals](https://github.com/Akin-Olusuyi/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png) 
 
 ### Challenges and Difficulties Encountered
 
