@@ -20,7 +20,7 @@ In our case we had a 10 digit serial number, which i beilieve is a **Unix date f
 ### Analysis of Outcomes Based on Goals
   ![Outcomes based on Goals](https://github.com/Akin-Olusuyi/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png) 
 
-### Challenges and Difficulties Encountered
+
 
 ## Results
 
@@ -30,7 +30,13 @@ In our case we had a 10 digit serial number, which i beilieve is a **Unix date f
    - Campaigns run in the summer (April - August) have been more successful. You can visual this in the "outcomes by lauch date" graph. The distance (spread)      between the successful line and failed line is larger between April to August. 
 
 - What can you conclude about the Outcomes based on Goals?
+    - From the Outcomes vs Goals chart, one can conclude that the lower the goal(amount to raised) the higher probability of having a successful campaign. The inverse holds true for failed campaigns. The higher the goal, the higher the probability of it been a failed campaign. 
 
 - What are some limitations of this dataset?
+   - Nothing tells us how the campaigns were marketed or advertised or how much was spent on marketing the campaigns. This could be a significant factor in the outcome of each campaign. One will expect a campaign that spends xxxx amount of dollars on ads or marketing to be more successful than an identical campaign with no significant outlay to marketing or ads. 
 
 - What are some other possible tables and/or graphs that we could create?
+   - Outcomes by geographical locations
+   - Outcomes based on length of campaings
+   - Outcomes based on the number of backers (ranges)
+  
